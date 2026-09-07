@@ -1,0 +1,7 @@
+{
+  "name": "RAKIB KING V2VPN",
+  "description": "Lightning Fast V2Ray/Xray VPN client with live ping, download/upload speed meter, server selector, and config import.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
